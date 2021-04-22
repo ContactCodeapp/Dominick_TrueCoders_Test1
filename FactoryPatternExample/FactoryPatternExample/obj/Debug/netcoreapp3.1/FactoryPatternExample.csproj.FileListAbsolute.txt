@@ -1,0 +1,12 @@
+/Users/dominickdougherty/Desktop/Repos/FactoryPatternExample/FactoryPatternExample/obj/Debug/netcoreapp3.1/FactoryPatternExample.csprojAssemblyReference.cache
+/Users/dominickdougherty/Desktop/Repos/FactoryPatternExample/FactoryPatternExample/obj/Debug/netcoreapp3.1/FactoryPatternExample.AssemblyInfoInputs.cache
+/Users/dominickdougherty/Desktop/Repos/FactoryPatternExample/FactoryPatternExample/obj/Debug/netcoreapp3.1/FactoryPatternExample.AssemblyInfo.cs
+/Users/dominickdougherty/Desktop/Repos/FactoryPatternExample/FactoryPatternExample/obj/Debug/netcoreapp3.1/FactoryPatternExample.csproj.CoreCompileInputs.cache
+/Users/dominickdougherty/Desktop/Repos/FactoryPatternExample/FactoryPatternExample/bin/Debug/netcoreapp3.1/FactoryPatternExample.deps.json
+/Users/dominickdougherty/Desktop/Repos/FactoryPatternExample/FactoryPatternExample/bin/Debug/netcoreapp3.1/FactoryPatternExample.runtimeconfig.json
+/Users/dominickdougherty/Desktop/Repos/FactoryPatternExample/FactoryPatternExample/bin/Debug/netcoreapp3.1/FactoryPatternExample.runtimeconfig.dev.json
+/Users/dominickdougherty/Desktop/Repos/FactoryPatternExample/FactoryPatternExample/bin/Debug/netcoreapp3.1/FactoryPatternExample.dll
+/Users/dominickdougherty/Desktop/Repos/FactoryPatternExample/FactoryPatternExample/bin/Debug/netcoreapp3.1/FactoryPatternExample.pdb
+/Users/dominickdougherty/Desktop/Repos/FactoryPatternExample/FactoryPatternExample/obj/Debug/netcoreapp3.1/FactoryPatternExample.dll
+/Users/dominickdougherty/Desktop/Repos/FactoryPatternExample/FactoryPatternExample/obj/Debug/netcoreapp3.1/FactoryPatternExample.pdb
+/Users/dominickdougherty/Desktop/Repos/FactoryPatternExample/FactoryPatternExample/obj/Debug/netcoreapp3.1/FactoryPatternExample.genruntimeconfig.cache
